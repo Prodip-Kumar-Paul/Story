@@ -1,1 +1,2 @@
 It was Third chapter 
+edit chapter 3 using github gui
